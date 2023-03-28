@@ -1,0 +1,7 @@
+name = "BFM"
+uuid = "0c08fb91-2d58-4a84-beee-ec968047240f"
+authors = ["Stefano Campanella <15182642+stefanocampanella@users.noreply.github.com> and contributors"]
+version = "0.1.0-DEV"
+
+[compat]
+julia = "1.8"
