@@ -23,7 +23,7 @@ const NO_STATES = 51
 
 function __init__()
     if !haskey(ENV, "JULIA_BFM_PATH")
-        error("The environment variable `JULIA_BFM_LIBBFM` should be set.")
+        error("The environment variable `JULIA_BFM_PATH` should be set.")
     end
     prefix =  ENV["JULIA_BFM_PATH"]
     libbfm = "$prefix/lib/libbfm"
