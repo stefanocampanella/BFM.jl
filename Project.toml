@@ -4,7 +4,6 @@ authors = ["Stefano Campanella <15182642+stefanocampanella@users.noreply.github.
 version = "0.1.0-DEV"
 
 [deps]
-JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 
 [compat]
